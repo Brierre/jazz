@@ -1,4 +1,7 @@
 {
+  "homepage" : "https://Brierre.github.io/jazz",
+  "name": "my-website",
+  "version": "0.1.0",
   "name": "jazz",
   "private": true,
   "version": "0.0.0",
