@@ -1,0 +1,36 @@
+/* Navigation.css */
+
+.custom-navbar {
+    color: rgb(220, 185, 232);
+    position: static;
+    top: -85px;
+    left: 0px;
+    width: 100%;
+    z-index: 1000;
+    background-color: rgba(65, 16, 108, 0.9);
+  }
+
+  .custom-navbar .navbar-brand {
+    color: rgb(220, 185, 232);
+  }
+
+  .custom-navbar .navbar-brand:hover, 
+  .custom-navbar .navbar-brand:focus {
+    color: rgb(208, 144, 230);
+  }
+
+  .custom-navbar .nav-link {
+    color: rgb(220, 185, 232);
+  }
+  
+  .custom-navbar .nav-link.active {
+    color:  rgb(220, 185, 232);
+  }
+
+  .custom-navbar .dropdown-menu a.dropdown-item {
+    color: rgb(220, 185, 232) !important;
+  }
+
+  .custom-navbar .dropdown-toggle {
+    color: rgb(220, 185, 232) !important;
+  }
